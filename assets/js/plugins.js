@@ -1,7 +1,7 @@
  /* ==============
  ========= js documentation ==========================
  
- * Template Name: FINVIEW 
+ * Template Name: Property Finanace Choice 
  * Version: 1.0
  * Author: pixelaxis
  * Author URI: https://themeforest.net/user/pixelaxis
